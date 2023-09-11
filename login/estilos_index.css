@@ -1,0 +1,57 @@
+.logo{
+    width: 180px;
+    height: 180px;
+    margin-left: 30px;
+}
+
+/*----------separacion div--------------------------*/
+.container {
+    display: flex;
+  }
+  
+  .div1 {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .div2 {
+    flex: 40;
+    padding: 105px;
+  }
+
+  /*--------------------campos para llenar------------------------------------*/
+
+.titulo{
+    font-size: 50px;
+    margin-left: 300px;
+}
+
+.input1{
+font-size: 25px;
+text-align: center;
+border-radius: 10px;
+background-color: transparent;
+margin-left: 60px;
+width: 450px;
+height: 40px;
+}
+
+.input2{
+    font-size: 25px;
+text-align: center;
+border-radius: 10px;
+background-color: transparent;
+margin-left: 580px;
+width: 450px;
+height: 40px;
+}
+
+/*--------------------------botones--------------------------------*/
+.botonAccion{
+  font-size: 20px;
+  background-color: transparent;
+  border-radius: 10px;
+  height: 40px;
+  margin-left: 60px;
+  cursor: pointer;
+}
